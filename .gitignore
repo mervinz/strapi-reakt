@@ -91,6 +91,7 @@ lib-cov
 lcov.info
 pids
 logs
+package-lock.json
 results
 node_modules
 .node_history
